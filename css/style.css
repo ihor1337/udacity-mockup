@@ -1,0 +1,27 @@
+hr {
+  color: #bcbbbb;
+  background-color: #bcbbbb;
+  height: 4px;
+}
+
+.txt{
+  font-family: 'Lato', sans-serif;
+  color: #747704;
+  font-weight: 300;
+}
+
+.txt-thin {
+  font-weight: 100;
+}
+
+.txt-temp-color{
+  color: #bcbbbb;
+}
+
+.title-big{
+  font-size: 60px;
+}
+
+.logo{
+  margin-top: 20px;
+}
